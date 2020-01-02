@@ -1,0 +1,63 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: "Chiara + Jaime"
+description: |
+    Cison di Valmarino
+
+    June 20, 2020
+owner: Jaimono # or company name
+first_published: 2019 # if migrating another site, the year of your first publish
+email: jaimem.montana@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "themontanellos.com" # the base hostname & protocol for your site
+
+google_analytics: 
+
+social:
+  #twitter: https://twitter.com/menzenski
+  #github: https://github.com/menzenski/wedding-site
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
+
