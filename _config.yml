@@ -2,13 +2,13 @@
 #
 
 # Site settings
-title: "Chiara + Jaime"
+title: "Chiara <i class='far fa-heart'></i> Jaime"
 description: |
     Cison di Valmarino
 
     June 20, 2020
 owner: Jaimono # or company name
-first_published: 2019 # if migrating another site, the year of your first publish
+first_published: 2020 # if migrating another site, the year of your first publish
 email: jaimem.montana@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "themontanellos.com" # the base hostname & protocol for your site
@@ -16,12 +16,12 @@ url: "themontanellos.com" # the base hostname & protocol for your site
 google_analytics: 
 
 social:
-  #twitter: https://twitter.com/menzenski
-  #github: https://github.com/menzenski/wedding-site
+  twitter: https://twitter.com/JaimemMontana
+  github: https://github.com/jaimono/wed2020
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  #email: jaimem.montana@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
