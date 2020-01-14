@@ -13,7 +13,7 @@ email: jaimem.montana@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "themontanellos.com" # the base hostname & protocol for your site
 
-google_analytics: 
+google_analytics: UA-148468748-1
 
 social:
   twitter: https://twitter.com/JaimemMontana
